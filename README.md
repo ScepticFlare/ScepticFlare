@@ -10,6 +10,7 @@ Interested in backend development, artificial intelligence, and turning complex 
 
 -  **Virtual Hand Gesture Mouse**
   Built a real-time virtual mouse system that uses hand tracking and gesture recognition to control cursor movements and clicks through natural finger and hand gestures.
+    
     → https://github.com/ScepticFlare/virtual-mouse
 
 ## Tech Stack
