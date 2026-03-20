@@ -9,7 +9,7 @@ Interested in backend development, artificial intelligence, and turning complex 
  → https://github.com/ScepticFlare/Sift  
 
 -  **Virtual Hand Gesture Mouse** *(coming soon)*  
-  Built a real-time virtual mouse system that uses hand tracking and gesture recognition to control cursor movement, clicks, drag, and scrolling through natural finger and hand gestures.
+  Built a real-time virtual mouse system that uses hand tracking and gesture recognition to control cursor movements and clicks through natural finger and hand gestures.
 
 ## Tech Stack
 - Languages: Python, Java, C++,Dart
