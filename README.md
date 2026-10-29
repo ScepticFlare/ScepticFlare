@@ -19,9 +19,13 @@ Interested in backend development, system design, and building practical softwar
 ## Tech Stack
 
 **Languages:** Java, C++, Python, JavaScript, SQL
+
 **Backend:** Spring Boot, Spring Security, REST APIs, JPA/Hibernate
+
 **Databases & Messaging:** PostgreSQL, Redis, RabbitMQ
+
 **Frontend:** React
+
 **Tools & Deployment:** Git, GitHub, Maven, Docker, Render
 
 ## Contact
